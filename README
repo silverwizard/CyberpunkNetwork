@@ -1,0 +1,11 @@
+Creates a character for the not-so-popular [Cyberpunk 2020]{https://en.wikipedia.org/wiki/Cyberpunk_2020} game - which should be way more.
+
+The Lifepath system will generate a bunch of backstory characters, and this tool will create those characters, out to 5 degrees of Separation.
+
+So, you will get the Lifepaths and basic attributes for a character, all of their friends, enemies, and lovers, and all of theirs, all of theirs, and all of theirs - creating a tree.
+
+Usage: Cyberpunk.pl Name
+
+[TODO]
+Define a sexuality for characters (question: use a Kinsey #, simply het/homo/bi, etc), also, define a sex for characters, and then allow reuse of characers already generated. Should free up a lot of memory.
+Sexuality issue is important for Romantic Relationships generated.
